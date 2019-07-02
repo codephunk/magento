@@ -4,8 +4,6 @@
 
 Magento Community Edition 1.x Mirror Github Repository
 
-[Contact us](https://codephunk.com/contact/)
-
 - [available magento versions](https://github.com/firegento/magento/releases)
 
 ## Installation via Composer
